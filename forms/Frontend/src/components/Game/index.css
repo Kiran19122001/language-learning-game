@@ -1,0 +1,9 @@
+.game-main-container{
+    color: #ffffff;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    background-color:  rgb(10, 10, 81);
+    height: 120vh;
+    padding:0px 30px;
+} 
